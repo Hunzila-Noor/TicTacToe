@@ -4,8 +4,8 @@ Welcome to the Tic-Tac-Toe project! This is a simple implementation of the class
 
 ## Features
 
-Play Tic-Tac-Toe against another player.
- Simple and intuitive user interface.
- Reset the game to start a new match.
- Detects win, lose, or draw conditions.
+ ### Play Tic-Tac-Toe against another player.
+ ### Simple and intuitive user interface.
+ ### Reset the game to start a new match.
+ ### Detects win, lose, or draw conditions.
 
